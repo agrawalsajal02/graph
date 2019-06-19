@@ -1,9 +1,10 @@
 1 )  LCA    
-     A) USING BINARY UPLIFTING (LOG N)
+     A) USING BINARY LIFTING (LOG N)
      https://www.youtube.com/watch?v=ctZ7fjMbPWE
       trying to code :-https://github.com/Ashishgup1/Competitive-Coding/blob/master/LCA%20(with%20Time%20Traversal%20DFS).cpp
       
      another vide upto 15::00 min https://www.youtube.com/watch?v=kOfa6t8WnbI
-      spoj:-LCA
+     p)problems
+     1)spoj:-LCA
       solved:-https://ide.codingblocks.com/s/88146 
-      
+     2)https://www.codechef.com/problems/MOAT 
